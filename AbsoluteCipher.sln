@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteCipher", "AbsoluteCipher\AbsoluteCipher.csproj", "{136902F9-8475-4534-98BE-09607AE9E5BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{136902F9-8475-4534-98BE-09607AE9E5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136902F9-8475-4534-98BE-09607AE9E5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136902F9-8475-4534-98BE-09607AE9E5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136902F9-8475-4534-98BE-09607AE9E5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35B6A826-AFA8-406C-A3FB-3B24BD7F622F}
+	EndGlobalSection
+EndGlobal
